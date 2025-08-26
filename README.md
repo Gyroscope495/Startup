@@ -1,9 +1,3 @@
-# Startup
-Starts files in folder sequentially
-Here’s a good first draft of a **README.md** for your `Startup.py`:
-
----
-
 # Startup Script
 
 This Python script automates the detection of a USB **PEN drive** (with a specific identifier file) and opens files from a designated folder (`Startup`) on that drive.
